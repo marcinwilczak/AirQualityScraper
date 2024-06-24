@@ -36,6 +36,7 @@ namespace DataScraper.Infrastructure
         private T FetchWithRetry<T>(string url, int maxRetries = 3) where T : class
         {
             int retries = 0;
+
             while (retries < maxRetries)
             {
                 try
@@ -63,7 +64,7 @@ namespace DataScraper.Infrastructure
                 }
 
                 retries++;
-                System.Threading.Thread.Sleep(1000); //wait 1 second before retrying not necessary
+                System.Threading.Thread.Sleep(1000); //wait 1 second before retrying (not necessary)
             }
 
             return null;
