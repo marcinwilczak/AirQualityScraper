@@ -12,5 +12,6 @@ namespace DataScraper.Models
         public int Id { get; set; }
 
         public string StationName { get; set; }
+        public List<Sensor> Sensors { get; set; }
     }
 }

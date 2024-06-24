@@ -49,6 +49,11 @@ namespace DataScraper.Infrastructure
                     else
                     {
                         Console.WriteLine($"Failed to fetch data from {url}. Status code: {response.StatusCode}");
+
+                        if (response.StatusCode == HttpStatusCode.NotFound)
+                        {
+                            break; // Exit retry loop if URL is not found
+                        }
                     }
                 }
                 catch (Exception ex)

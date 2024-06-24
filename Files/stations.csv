@@ -1,0 +1,711 @@
+StationId,StationName,SensorId,ParameterName
+114,"Wrocław, ul. Bartnicza",642,dwutlenek azotu
+114,"Wrocław, ul. Bartnicza",644,ozon
+117,"Wrocław, wyb. Conrada-Korzeniowskiego",672,dwutlenek siarki
+117,"Wrocław, wyb. Conrada-Korzeniowskiego",658,benzen
+117,"Wrocław, wyb. Conrada-Korzeniowskiego",660,tlenek węgla
+117,"Wrocław, wyb. Conrada-Korzeniowskiego",665,dwutlenek azotu
+117,"Wrocław, wyb. Conrada-Korzeniowskiego",667,ozon
+117,"Wrocław, wyb. Conrada-Korzeniowskiego",670,pył zawieszony PM2.5
+117,"Wrocław, wyb. Conrada-Korzeniowskiego",14395,pył zawieszony PM10
+129,"Wrocław, al. Wiśniowa",737,tlenek węgla
+129,"Wrocław, al. Wiśniowa",740,dwutlenek azotu
+129,"Wrocław, al. Wiśniowa",744,pył zawieszony PM2.5
+52,"Legnica, al. Rzeczypospolitej",282,benzen
+52,"Legnica, al. Rzeczypospolitej",285,tlenek węgla
+52,"Legnica, al. Rzeczypospolitej",291,dwutlenek azotu
+52,"Legnica, al. Rzeczypospolitej",293,ozon
+52,"Legnica, al. Rzeczypospolitej",297,dwutlenek siarki
+52,"Legnica, al. Rzeczypospolitej",14397,pył zawieszony PM10
+109,"Wałbrzych, ul. Wysockiego",605,benzen
+109,"Wałbrzych, ul. Wysockiego",608,tlenek węgla
+109,"Wałbrzych, ul. Wysockiego",614,dwutlenek azotu
+109,"Wałbrzych, ul. Wysockiego",616,ozon
+109,"Wałbrzych, ul. Wysockiego",618,pył zawieszony PM10
+109,"Wałbrzych, ul. Wysockiego",621,dwutlenek siarki
+11,Czerniawa,50,dwutlenek azotu
+11,Czerniawa,52,ozon
+11,Czerniawa,54,pył zawieszony PM10
+16,"Dzierżoniów, ul. Piłsudskiego",101,pył zawieszony PM10
+38,"Kłodzko, ul. Szkolna",221,dwutlenek azotu
+38,"Kłodzko, ul. Szkolna",223,ozon
+38,"Kłodzko, ul. Szkolna",224,pył zawieszony PM10
+38,"Kłodzko, ul. Szkolna",25988,pył zawieszony PM2.5
+74,Osieczów,441,dwutlenek azotu
+74,Osieczów,444,ozon
+74,Osieczów,450,dwutlenek siarki
+9153,"Jelenia Góra, ul. Ogińskiego",14727,dwutlenek azotu
+9153,"Jelenia Góra, ul. Ogińskiego",14729,ozon
+9153,"Jelenia Góra, ul. Ogińskiego",14730,pył zawieszony PM10
+9153,"Jelenia Góra, ul. Ogińskiego",14731,pył zawieszony PM2.5
+9153,"Jelenia Góra, ul. Ogińskiego",14733,dwutlenek siarki
+9153,"Jelenia Góra, ul. Ogińskiego",14734,benzen
+9153,"Jelenia Góra, ul. Ogińskiego",14707,tlenek węgla
+11254,"Nowa Ruda, ul. Jeziorna",20210,pył zawieszony PM10
+11934,"Trzebnica, ul. 3 Maja",21368,dwutlenek azotu
+11934,"Trzebnica, ul. 3 Maja",21370,pył zawieszony PM10
+11934,"Trzebnica, ul. 3 Maja",21371,ozon
+12055,Strzegom,29112,dwutlenek azotu
+12055,Strzegom,21628,ozon
+12055,Strzegom,21636,pył zawieszony PM10
+12056,"Chojnów, ul. S. Małachowskiego ",21642,pył zawieszony PM10
+12056,"Chojnów, ul. S. Małachowskiego ",21644,pył zawieszony PM2.5
+17780,"Kudowa-Zdrój, ul. Szkolna ",29567,pył zawieszony PM10
+17780,"Kudowa-Zdrój, ul. Szkolna ",29568,pył zawieszony PM2.5
+156,"Bydgoszcz, pl. Poznański",949,benzen
+156,"Bydgoszcz, pl. Poznański",952,tlenek węgla
+156,"Bydgoszcz, pl. Poznański",959,dwutlenek azotu
+156,"Bydgoszcz, pl. Poznański",965,pył zawieszony PM10
+156,"Bydgoszcz, pl. Poznański",966,pył zawieszony PM2.5
+158,"Bydgoszcz, ul. Warszawska",991,dwutlenek azotu
+158,"Bydgoszcz, ul. Warszawska",993,ozon
+158,"Bydgoszcz, ul. Warszawska",995,pył zawieszony PM10
+158,"Bydgoszcz, ul. Warszawska",996,pył zawieszony PM2.5
+158,"Bydgoszcz, ul. Warszawska",998,dwutlenek siarki
+16237,"Lubsko, ul. Strzelecka",26104,benzen
+16237,"Lubsko, ul. Strzelecka",26106,dwutlenek azotu
+16237,"Lubsko, ul. Strzelecka",26111,pył zawieszony PM10
+16237,"Lubsko, ul. Strzelecka",26117,pył zawieszony PM2.5
+16613,Nowa Sól,27328,pył zawieszony PM10
+295,"Łódź, ul. Czernika",2064,dwutlenek azotu
+295,"Łódź, ul. Czernika",2066,ozon
+295,"Łódź, ul. Czernika",2069,pył zawieszony PM10
+295,"Łódź, ul. Czernika",2071,pył zawieszony PM2.5
+296,"Łódź, ul. Gdańska",2088,dwutlenek siarki
+296,"Łódź, ul. Gdańska",2087,pył zawieszony PM10
+296,"Łódź, ul. Gdańska",2079,benzen
+296,"Łódź, ul. Gdańska",2083,dwutlenek azotu
+314,"Pabianice, ul. Konstantynowska",2199,pył zawieszony PM10
+314,"Pabianice, ul. Konstantynowska",2195,dwutlenek azotu
+314,"Pabianice, ul. Konstantynowska",2197,ozon
+355,"Zgierz, ul. Mielczarskiego",2370,tlenek węgla
+355,"Zgierz, ul. Mielczarskiego",2373,dwutlenek azotu
+355,"Zgierz, ul. Mielczarskiego",2375,ozon
+355,"Zgierz, ul. Mielczarskiego",2377,pył zawieszony PM10
+355,"Zgierz, ul. Mielczarskiego",2378,pył zawieszony PM2.5
+355,"Zgierz, ul. Mielczarskiego",2382,dwutlenek siarki
+10058,"Łódź, al. Jana Pawła II",16250,pył zawieszony PM10
+10058,"Łódź, al. Jana Pawła II",16228,tlenek węgla
+10058,"Łódź, al. Jana Pawła II",16231,dwutlenek azotu
+291,"Gajew, Ujęcie Wody",2039,dwutlenek siarki
+291,"Gajew, Ujęcie Wody",2031,dwutlenek azotu
+291,"Gajew, Ujęcie Wody",2033,ozon
+291,"Gajew, Ujęcie Wody",2035,pył zawieszony PM10
+319,"Parzniewice, Ujęcie Wody",2219,dwutlenek azotu
+319,"Parzniewice, Ujęcie Wody",2221,ozon
+319,"Parzniewice, Ujęcie Wody",2222,dwutlenek siarki
+322,"Piotrków Trybunalski, ul. Krakowskie Przedmieście",2239,tlenek węgla
+322,"Piotrków Trybunalski, ul. Krakowskie Przedmieście",2242,dwutlenek azotu
+322,"Piotrków Trybunalski, ul. Krakowskie Przedmieście",2244,ozon
+322,"Piotrków Trybunalski, ul. Krakowskie Przedmieście",2245,pył zawieszony PM10
+331,"Radomsko, ul. Rolna",16630,pył zawieszony PM10
+331,"Radomsko, ul. Rolna",16633,dwutlenek siarki
+331,"Radomsko, ul. Rolna",16638,dwutlenek azotu
+331,"Radomsko, ul. Rolna",17716,ozon
+331,"Radomsko, ul. Rolna",28730,benzen
+331,"Radomsko, ul. Rolna",21363,pył zawieszony PM2.5
+562,"Żyrardów, ul. Roosevelta",3802,pył zawieszony PM10
+562,"Żyrardów, ul. Roosevelta",14379,pył zawieszony PM2.5
+9913,Guty Duże,17276,pył zawieszony PM10
+9913,Guty Duże,16037,dwutlenek azotu
+9913,Guty Duże,16041,ozon
+9913,Guty Duże,16043,dwutlenek siarki
+11358,"Biała, ul. Kmicica",20364,benzen
+11358,"Biała, ul. Kmicica",20365,dwutlenek siarki
+11358,"Biała, ul. Kmicica",28812,pył zawieszony PM2.5
+11358,"Biała, ul. Kmicica",27292,pył zawieszony PM10
+16271,"Konstancin-Jeziorna, ul. Żeromskiego",26261,pył zawieszony PM2.5
+16271,"Konstancin-Jeziorna, ul. Żeromskiego",26262,pył zawieszony PM10
+17160,"Pułtusk, ul. Mickiewicza",28500,pył zawieszony PM10
+17160,"Pułtusk, ul. Mickiewicza",28523,pył zawieszony PM2.5
+590,"Opole, os. Armii Krajowej",20497,benzen
+590,"Opole, os. Armii Krajowej",16149,dwutlenek siarki
+590,"Opole, os. Armii Krajowej",16158,ozon
+590,"Opole, os. Armii Krajowej",16160,dwutlenek azotu
+590,"Opole, os. Armii Krajowej",28647,tlenek węgla
+10374,"Opole, ul. Koszyka",16147,pył zawieszony PM10
+10374,"Opole, ul. Koszyka",25986,pył zawieszony PM2.5
+568,"Kędzierzyn-Koźle, ul. Śmiałego",3834,benzen
+568,"Kędzierzyn-Koźle, ul. Śmiałego",3836,tlenek węgla
+568,"Kędzierzyn-Koźle, ul. Śmiałego",3839,dwutlenek azotu
+568,"Kędzierzyn-Koźle, ul. Śmiałego",3841,ozon
+568,"Kędzierzyn-Koźle, ul. Śmiałego",3843,pył zawieszony PM10
+568,"Kędzierzyn-Koźle, ul. Śmiałego",3844,pył zawieszony PM2.5
+568,"Kędzierzyn-Koźle, ul. Śmiałego",3847,dwutlenek siarki
+584,"Olesno, ul. Słowackiego",3902,pył zawieszony PM10
+584,"Olesno, ul. Słowackiego",14781,ozon
+584,"Olesno, ul. Słowackiego",21351,dwutlenek azotu
+600,"Zdzieszowice, ul. Piastów",3964,benzen
+600,"Zdzieszowice, ul. Piastów",3970,pył zawieszony PM10
+8976,"Nysa, ul. Rodziewiczówny",21683,pył zawieszony PM10
+10018,"Głubczyce, ul. Ratuszowa",26926,pył zawieszony PM10
+16181,"Strzelce Opolskie, ul. Kard. Wyszyńskiego",25941,pył zawieszony PM2.5
+16181,"Strzelce Opolskie, ul. Kard. Wyszyńskiego",25943,benzen
+16181,"Strzelce Opolskie, ul. Kard. Wyszyńskiego",25940,pył zawieszony PM10
+16413,"Brzeg, ul. Poprzeczna",26935,pył zawieszony PM10
+671,"Rzeszów, ul. Rejtana",14466,pył zawieszony PM10
+671,"Rzeszów, ul. Rejtana",4376,benzen
+671,"Rzeszów, ul. Rejtana",4383,dwutlenek azotu
+671,"Rzeszów, ul. Rejtana",4385,ozon
+671,"Rzeszów, ul. Rejtana",4391,dwutlenek siarki
+10125,"Rzeszów, ul. Piłsudskiego",20277,pył zawieszony PM2.5
+10125,"Rzeszów, ul. Piłsudskiego",16319,dwutlenek azotu
+10125,"Rzeszów, ul. Piłsudskiego",16343,tlenek węgla
+10125,"Rzeszów, ul. Piłsudskiego",16344,pył zawieszony PM10
+17159,"Rzeszów, ul. Słocińska",28486,pył zawieszony PM10
+17159,"Rzeszów, ul. Słocińska",28487,pył zawieszony PM2.5
+17179,"Rzeszów, ul. Starzyńskiego",28488,pył zawieszony PM10
+17179,"Rzeszów, ul. Starzyńskiego",28489,pył zawieszony PM2.5
+631,"Jarosław, ul. Pruchnicka",20236,pył zawieszony PM10
+631,"Jarosław, ul. Pruchnicka",20218,pył zawieszony PM2.5
+638,"Jaslo, ul. Sikorskiego",4192,dwutlenek azotu
+638,"Jaslo, ul. Sikorskiego",4194,ozon
+638,"Jaslo, ul. Sikorskiego",4196,pył zawieszony PM10
+638,"Jaslo, ul. Sikorskiego",4198,pył zawieszony PM2.5
+646,"Krosno, ul. Kletówki",26986,pył zawieszony PM2.5
+646,"Krosno, ul. Kletówki",21905,pył zawieszony PM10
+659,"Nisko, ul. Szklarniowa",14448,ozon
+659,"Nisko, ul. Szklarniowa",4274,tlenek węgla
+659,"Nisko, ul. Szklarniowa",4278,dwutlenek azotu
+659,"Nisko, ul. Szklarniowa",14416,pył zawieszony PM10
+659,"Nisko, ul. Szklarniowa",25910,pył zawieszony PM2.5
+665,"Przemyśl, ul. Grunwaldzka",4333,dwutlenek azotu
+665,"Przemyśl, ul. Grunwaldzka",4336,pył zawieszony PM10
+665,"Przemyśl, ul. Grunwaldzka",4338,pył zawieszony PM2.5
+665,"Przemyśl, ul. Grunwaldzka",4339,dwutlenek siarki
+665,"Przemyśl, ul. Grunwaldzka",14771,benzen
+665,"Przemyśl, ul. Grunwaldzka",14772,ozon
+678,"Sanok, ul. Sadowa",26987,pył zawieszony PM10
+684,"Tarnobrzeg, ul. Dąbrowskiej",26989,pył zawieszony PM10
+870," Gołdap, ul. Jaćwieska",5721,pył zawieszony PM10
+882,"Diabla Góra, Puszcza Borecka",5826,ozon
+882,"Diabla Góra, Puszcza Borecka",16396,dwutlenek siarki
+882,"Diabla Góra, Puszcza Borecka",16424,dwutlenek azotu
+10005,"Ełk, ul. Piłsudskiego",16214,dwutlenek siarki
+10005,"Ełk, ul. Piłsudskiego",16216,dwutlenek azotu
+10005,"Ełk, ul. Piłsudskiego",20322,benzen
+10005,"Ełk, ul. Piłsudskiego",16171,ozon
+10005,"Ełk, ul. Piłsudskiego",16173,pył zawieszony PM10
+10005,"Ełk, ul. Piłsudskiego",27606,pył zawieszony PM2.5
+10030,"Ostróda, ul. Piłsudskiego",16174,tlenek węgla
+10030,"Ostróda, ul. Piłsudskiego",16178,pył zawieszony PM10
+10030,"Ostróda, ul. Piłsudskiego",16180,ozon
+10030,"Ostróda, ul. Piłsudskiego",16181,dwutlenek azotu
+17741,"Działdowo, ul. Polna",29516,pył zawieszony PM2.5
+17741,"Działdowo, ul. Polna",29514,pył zawieszony PM10
+944,"Poznań, ul. Dąbrowskiego",6087,dwutlenek siarki
+944,"Poznań, ul. Dąbrowskiego",6085,pył zawieszony PM10
+944,"Poznań, ul. Dąbrowskiego",6074,benzen
+944,"Poznań, ul. Dąbrowskiego",6076,tlenek węgla
+944,"Poznań, ul. Dąbrowskiego",6081,dwutlenek azotu
+944,"Poznań, ul. Dąbrowskiego",20176,pył zawieszony PM2.5
+16493,Poznań ul. Szwajcarska,28767,ozon
+16493,Poznań ul. Szwajcarska,26990,dwutlenek azotu
+16493,Poznań ul. Szwajcarska,26996,pył zawieszony PM10
+16493,Poznań ul. Szwajcarska,26997,pył zawieszony PM2.5
+952,"Kalisz, ul. Wyszyńskiego",6168,dwutlenek siarki
+952,"Kalisz, ul. Wyszyńskiego",6161,dwutlenek azotu
+952,"Kalisz, ul. Wyszyńskiego",6165,pył zawieszony PM2.5
+952,"Kalisz, ul. Wyszyńskiego",14972,pył zawieszony PM10
+952,"Kalisz, ul. Wyszyńskiego",16581,benzen
+952,"Kalisz, ul. Wyszyńskiego",14890,ozon
+952,"Kalisz, ul. Wyszyńskiego",14891,tlenek węgla
+902,"Konin, ul. Wyszyńskiego",5899,dwutlenek azotu
+902,"Konin, ul. Wyszyńskiego",5902,ozon
+902,"Konin, ul. Wyszyńskiego",5904,pył zawieszony PM10
+902,"Konin, ul. Wyszyńskiego",28811,benzen
+920,"Pila, ul. Kusocińskiego",5973,tlenek węgla
+920,"Pila, ul. Kusocińskiego",5979,dwutlenek azotu
+920,"Pila, ul. Kusocińskiego",5984,dwutlenek siarki
+920,"Pila, ul. Kusocińskiego",14893,pył zawieszony PM10
+946,"Piaski, Krzyżówka",6104,dwutlenek azotu
+946,"Piaski, Krzyżówka",6106,ozon
+946,"Piaski, Krzyżówka",6108,dwutlenek siarki
+950,"Borówiec, ul. Drapałka",6140,dwutlenek azotu
+950,"Borówiec, ul. Drapałka",6142,ozon
+950,"Borówiec, ul. Drapałka",14892,pył zawieszony PM10
+9218,"Pleszew, Al. Mickiewicza",21686,pył zawieszony PM10
+10834,"Koziegłowy, os.Leśne",17945,dwutlenek siarki
+10834,"Koziegłowy, os.Leśne",17956,benzen
+10834,"Koziegłowy, os.Leśne",17957,dwutlenek azotu
+10834,"Koziegłowy, os.Leśne",17958,pył zawieszony PM10
+10834,"Koziegłowy, os.Leśne",17960,tlenek węgla
+16495,"Mosina, ul. Czereśniowa",26998,pył zawieszony PM10
+17438,"Kościan, ul. Maya",29267,pył zawieszony PM10
+17438,"Kościan, ul. Maya",29268,pył zawieszony PM2.5
+986,"Szczecin, ul. Andrzejewskiego",6348,dwutlenek azotu
+986,"Szczecin, ul. Andrzejewskiego",6350,ozon
+986,"Szczecin, ul. Andrzejewskiego",6352,pył zawieszony PM10
+986,"Szczecin, ul. Andrzejewskiego",6354,pył zawieszony PM2.5
+987,"Szczecin, ul. Piłsudskiego",6360,benzen
+987,"Szczecin, ul. Piłsudskiego",6362,tlenek węgla
+987,"Szczecin, ul. Piłsudskiego",6379,dwutlenek azotu
+987,"Szczecin, ul. Piłsudskiego",6382,pył zawieszony PM10
+987,"Szczecin, ul. Piłsudskiego",6383,pył zawieszony PM2.5
+987,"Szczecin, ul. Piłsudskiego",6385,dwutlenek siarki
+989,Szczecin_Łączna,6400,dwutlenek siarki
+16270,"Bytów, ul. Miła",29691,pył zawieszony PM2.5
+16270,"Bytów, ul. Miła",26269,pył zawieszony PM10
+805,"Dąbrowa Górnicza, ul. Tysiąclecia",5274,benzen
+805,"Dąbrowa Górnicza, ul. Tysiąclecia",5277,tlenek węgla
+805,"Dąbrowa Górnicza, ul. Tysiąclecia",5281,dwutlenek azotu
+805,"Dąbrowa Górnicza, ul. Tysiąclecia",5283,ozon
+805,"Dąbrowa Górnicza, ul. Tysiąclecia",5286,pył zawieszony PM10
+805,"Dąbrowa Górnicza, ul. Tysiąclecia",5290,dwutlenek siarki
+809,"Gliwice, ul. Mewy",5312,pył zawieszony PM10
+809,"Gliwice, ul. Mewy",21327,benzen
+813,"Katowice, ul. Plebiscytowa/A4",5343,tlenek węgla
+813,"Katowice, ul. Plebiscytowa/A4",5346,dwutlenek azotu
+813,"Katowice, ul. Plebiscytowa/A4",5349,pył zawieszony PM10
+813,"Katowice, ul. Plebiscytowa/A4",25931,pył zawieszony PM2.5
+814,"Katowice, ul. Kossutha",5371,dwutlenek azotu
+814,"Katowice, ul. Kossutha",5373,ozon
+814,"Katowice, ul. Kossutha",5376,pył zawieszony PM10
+814,"Katowice, ul. Kossutha",5378,pył zawieszony PM2.5
+814,"Katowice, ul. Kossutha",5382,dwutlenek siarki
+837,"Sosnowiec, ul. Lubelska",5478,dwutlenek azotu
+837,"Sosnowiec, ul. Lubelska",5480,pył zawieszony PM10
+841,"Tychy, ul. Tołstoja",5501,dwutlenek azotu
+841,"Tychy, ul. Tołstoja",5505,pył zawieszony PM10
+841,"Tychy, ul. Tołstoja",5508,dwutlenek siarki
+17880,"Zabrze, ul. M. Skłodowskiej-Curie",29672,dwutlenek siarki
+17880,"Zabrze, ul. M. Skłodowskiej-Curie",29671,pył zawieszony PM10
+17880,"Zabrze, ul. M. Skłodowskiej-Curie",29676,ozon
+17880,"Zabrze, ul. M. Skłodowskiej-Curie",29677,tlenek węgla
+17880,"Zabrze, ul. M. Skłodowskiej-Curie",29680,dwutlenek azotu
+834,"Rybnik, ul. Borki",5454,benzen
+834,"Rybnik, ul. Borki",5457,tlenek węgla
+834,"Rybnik, ul. Borki",5461,dwutlenek azotu
+834,"Rybnik, ul. Borki",5463,ozon
+834,"Rybnik, ul. Borki",5466,pył zawieszony PM10
+834,"Rybnik, ul. Borki",5470,dwutlenek siarki
+10554,"Żory, Os. Gen. Władysława Sikorskiego",17439,dwutlenek siarki
+11855,"Jastrzębie-Zdrój, Al.J.Piłsudskiego/Harcerska",21228,pył zawieszony PM2.5
+11855,"Jastrzębie-Zdrój, Al.J.Piłsudskiego/Harcerska",21252,dwutlenek azotu
+789,"Bielsko-Biała, ul. Kossak-Szczuckiej",5162,dwutlenek azotu
+789,"Bielsko-Biała, ul. Kossak-Szczuckiej",5164,ozon
+789,"Bielsko-Biała, ul. Kossak-Szczuckiej",5167,pył zawieszony PM10
+789,"Bielsko-Biała, ul. Kossak-Szczuckiej",5171,dwutlenek siarki
+789,"Bielsko-Biała, ul. Kossak-Szczuckiej",16705,benzen
+10158,"Bielsko-Biała, ul.Partyzantów",16549,dwutlenek azotu
+10158,"Bielsko-Biała, ul.Partyzantów",16550,tlenek węgla
+10158,"Bielsko-Biała, ul.Partyzantów",16551,pył zawieszony PM2.5
+798,"Częstochowa, ul. AK/Jana Pawła II",5228,tlenek węgla
+798,"Częstochowa, ul. AK/Jana Pawła II",5230,dwutlenek azotu
+798,"Częstochowa, ul. AK/Jana Pawła II",5232,pył zawieszony PM10
+800,"Częstochowa, ul. Baczyńskiego",5250,dwutlenek azotu
+800,"Częstochowa, ul. Baczyńskiego",5253,ozon
+800,"Częstochowa, ul. Baczyńskiego",5256,pył zawieszony PM10
+800,"Częstochowa, ul. Baczyńskiego",5260,dwutlenek siarki
+800,"Częstochowa, ul. Baczyńskiego",14913,benzen
+842,"Ustroń, ul. Sanatoryjna",5512,dwutlenek azotu
+842,"Ustroń, ul. Sanatoryjna",5514,ozon
+842,"Ustroń, ul. Sanatoryjna",5515,pył zawieszony PM10
+842,"Ustroń, ul. Sanatoryjna",5516,dwutlenek siarki
+845,"Wodzisław Śląski, ul. Gałczyńskiego",5550,dwutlenek siarki
+845,"Wodzisław Śląski, ul. Gałczyńskiego",5540,tlenek węgla
+845,"Wodzisław Śląski, ul. Gałczyńskiego",5543,dwutlenek azotu
+845,"Wodzisław Śląski, ul. Gałczyńskiego",5545,ozon
+845,"Wodzisław Śląski, ul. Gałczyńskiego",5547,pył zawieszony PM10
+853,"Złoty Potok, Leśniczówka",5600,benzen
+853,"Złoty Potok, Leśniczówka",5612,dwutlenek azotu
+853,"Złoty Potok, Leśniczówka",5615,ozon
+853,"Złoty Potok, Leśniczówka",5618,pył zawieszony PM10
+853,"Złoty Potok, Leśniczówka",5619,pył zawieszony PM2.5
+853,"Złoty Potok, Leśniczówka",5623,dwutlenek siarki
+856,"Żywiec, ul. Kopernika",14915,dwutlenek siarki
+856,"Żywiec, ul. Kopernika",14916,pył zawieszony PM10
+856,"Żywiec, ul. Kopernika",14917,dwutlenek azotu
+856,"Żywiec, ul. Kopernika",28810,pył zawieszony PM2.5
+856,"Żywiec, ul. Kopernika",21329,benzen
+9000,"Czerwionka-Leszczyny, ul. Kopalniana",14498,benzen
+11278,"Lubliniec, ul. ks. Szymały",21303,dwutlenek siarki
+11278,"Lubliniec, ul. ks. Szymały",20220,pył zawieszony PM10
+11278,"Lubliniec, ul. ks. Szymały",21328,benzen
+11455,"Zawiercie, ul. K.I.Gałczyńskiego",20661,pył zawieszony PM10
+11457,"Goczałkowice Zdrój, ul. Parkowa",21083,pył zawieszony PM2.5
+11457,"Goczałkowice Zdrój, ul. Parkowa",20679,dwutlenek azotu
+11457,"Goczałkowice Zdrój, ul. Parkowa",20681,pył zawieszony PM10
+11457,"Goczałkowice Zdrój, ul. Parkowa",20684,ozon
+11457,"Goczałkowice Zdrój, ul. Parkowa",20685,benzen
+11794,"Racibórz, Wojska Polskiego",21128,dwutlenek siarki
+11794,"Racibórz, Wojska Polskiego",21129,pył zawieszony PM10
+11794,"Racibórz, Wojska Polskiego",21130,pył zawieszony PM2.5
+16406,"Cieszyn, ul. Chopina",26885,pył zawieszony PM10
+11195,"Kielce, ul. Targowa",19740,benzen
+11195,"Kielce, ul. Targowa",19745,dwutlenek azotu
+11195,"Kielce, ul. Targowa",19747,ozon
+11195,"Kielce, ul. Targowa",19749,pył zawieszony PM10
+11195,"Kielce, ul. Targowa",19753,pył zawieszony PM2.5
+11195,"Kielce, ul. Targowa",19756,dwutlenek siarki
+16196,"Kielce, ul. Warszawska 108",26006,tlenek węgla
+16196,"Kielce, ul. Warszawska 108",26008,dwutlenek azotu
+16196,"Kielce, ul. Warszawska 108",26010,pył zawieszony PM10
+16497,"Kielce, ul. Jurajska",27027,pył zawieszony PM10
+769,"Nowiny, ul. Parkowa",5083,dwutlenek azotu
+769,"Nowiny, ul. Parkowa",5085,pył zawieszony PM10
+769,"Nowiny, ul. Parkowa",14878,ozon
+778,"Połaniec, ul. Ruszczańska",5112,dwutlenek azotu
+778,"Połaniec, ul. Ruszczańska",5115,pył zawieszony PM10
+778,"Połaniec, ul. Ruszczańska",5116,pył zawieszony PM2.5
+778,"Połaniec, ul. Ruszczańska",5118,dwutlenek siarki
+785,"Starachowice, ul. Złota",20310,pył zawieszony PM10
+785,"Starachowice, ul. Złota",20311,pył zawieszony PM2.5
+785,"Starachowice, ul. Złota",17249,benzen
+10794,"Małogoszcz, ul. Słoneczna",17796,dwutlenek azotu
+10794,"Małogoszcz, ul. Słoneczna",17799,dwutlenek siarki
+10794,"Małogoszcz, ul. Słoneczna",17800,pył zawieszony PM10
+11754,"Gołuchów, Ujęcie Wody",21043,ozon
+11754,"Gołuchów, Ujęcie Wody",21045,dwutlenek azotu
+11754,"Gołuchów, Ujęcie Wody",21047,dwutlenek siarki
+11754,"Gołuchów, Ujęcie Wody",26004,pył zawieszony PM10
+12138,"Łagów, ul. Zapłotnia",25995,pył zawieszony PM10
+12138,"Łagów, ul. Zapłotnia",25997,pył zawieszony PM2.5
+17758,"Skarżysko-Kamienna, ul. 1 Maja",29554,tlenek węgla
+17758,"Skarżysko-Kamienna, ul. 1 Maja",29555,ozon
+17758,"Skarżysko-Kamienna, ul. 1 Maja",29547,dwutlenek azotu
+17758,"Skarżysko-Kamienna, ul. 1 Maja",29553,dwutlenek siarki
+17758,"Skarżysko-Kamienna, ul. 1 Maja",29556,pył zawieszony PM2.5
+17758,"Skarżysko-Kamienna, ul. 1 Maja",29550,pył zawieszony PM10
+877," Olsztyn, ul. Puszkina",5752,benzen
+877," Olsztyn, ul. Puszkina",5754,tlenek węgla
+877," Olsztyn, ul. Puszkina",5761,dwutlenek azotu
+877," Olsztyn, ul. Puszkina",5763,ozon
+877," Olsztyn, ul. Puszkina",5766,pył zawieszony PM10
+877," Olsztyn, ul. Puszkina",5768,pył zawieszony PM2.5
+877," Olsztyn, ul. Puszkina",5770,dwutlenek siarki
+861,"Elbląg, ul. Bażyńskiego",5671,benzen
+861,"Elbląg, ul. Bażyńskiego",5673,tlenek węgla
+861,"Elbląg, ul. Bażyńskiego",5678,dwutlenek azotu
+861,"Elbląg, ul. Bażyńskiego",5680,ozon
+861,"Elbląg, ul. Bażyńskiego",5683,pył zawieszony PM10
+861,"Elbląg, ul. Bażyńskiego",5686,dwutlenek siarki
+861,"Elbląg, ul. Bażyńskiego",20691,pył zawieszony PM2.5
+11554,"Łask, ul. Narutowicza",20796,pył zawieszony PM2.5
+11554,"Łask, ul. Narutowicza",20778,pył zawieszony PM10
+11616,"Kutno, ul. 1 Maja",20846,pył zawieszony PM2.5
+11616,"Kutno, ul. 1 Maja",20847,pył zawieszony PM10
+400,"Kraków, Aleja Krasińskiego",2745,tlenek węgla
+400,"Kraków, Aleja Krasińskiego",2747,dwutlenek azotu
+400,"Kraków, Aleja Krasińskiego",2750,pył zawieszony PM10
+400,"Kraków, Aleja Krasińskiego",2752,pył zawieszony PM2.5
+400,"Kraków, Aleja Krasińskiego",16500,benzen
+401,"Kraków, ul. Bujaka",2766,dwutlenek azotu
+401,"Kraków, ul. Bujaka",2768,ozon
+401,"Kraków, ul. Bujaka",2770,pył zawieszony PM10
+401,"Kraków, ul. Bujaka",2774,dwutlenek siarki
+402,"Kraków, ul. Bulwarowa",2779,benzen
+402,"Kraków, ul. Bulwarowa",2783,tlenek węgla
+402,"Kraków, ul. Bulwarowa",2788,dwutlenek azotu
+402,"Kraków, ul. Bulwarowa",2792,pył zawieszony PM10
+402,"Kraków, ul. Bulwarowa",2794,pył zawieszony PM2.5
+402,"Kraków, ul. Bulwarowa",2797,dwutlenek siarki
+10123,"Kraków, ul. Złoty Róg",16786,pył zawieszony PM10
+10139,"Kraków, os. Piastów",16784,pył zawieszony PM10
+10447,"Kraków, os. Wadów",17309,pył zawieszony PM10
+11303,"Kraków, os. Swoszowice",20320,pył zawieszony PM10
+16896,"Kraków, ul. Kamieńskiego",27841,pył zawieszony PM10
+16896,"Kraków, ul. Kamieńskiego",27843,dwutlenek azotu
+444,"Tarnów, ul. Bitwy pod Studziankami",3073,dwutlenek siarki
+444,"Tarnów, ul. Bitwy pod Studziankami",3066,dwutlenek azotu
+444,"Tarnów, ul. Bitwy pod Studziankami",3068,ozon
+444,"Tarnów, ul. Bitwy pod Studziankami",3070,pył zawieszony PM10
+10120,"Tarnów, ul. Ks. Romana Sitko",16494,pył zawieszony PM2.5
+10120,"Tarnów, ul. Ks. Romana Sitko",16457,pył zawieszony PM10
+10120,"Tarnów, ul. Ks. Romana Sitko",16460,dwutlenek azotu
+10120,"Tarnów, ul. Ks. Romana Sitko",16465,tlenek węgla
+10120,"Tarnów, ul. Ks. Romana Sitko",20560,benzen
+426,"Nowy Sącz, ul. Nadbrzeżna",2941,pył zawieszony PM10
+426,"Nowy Sącz, ul. Nadbrzeżna",2944,dwutlenek siarki
+9173,"Dębica, ul.Grottgera",20324,pył zawieszony PM10
+9173,"Dębica, ul.Grottgera",20325,pył zawieszony PM2.5
+9175,"Krempna, Ośrodek edukacyjno-muzealny MPN",14751,dwutlenek siarki
+9175,"Krempna, Ośrodek edukacyjno-muzealny MPN",14753,dwutlenek azotu
+9175,"Krempna, Ośrodek edukacyjno-muzealny MPN",14756,ozon
+10414,"Rymanów Zdrój, ul. Parkowa",17184,pył zawieszony PM10
+10414,"Rymanów Zdrój, ul. Parkowa",17185,pył zawieszony PM2.5
+10438,"Mielec, ul. Biernackiego",17265,dwutlenek siarki
+10438,"Mielec, ul. Biernackiego",17266,dwutlenek azotu
+10438,"Mielec, ul. Biernackiego",17269,ozon
+10438,"Mielec, ul. Biernackiego",17270,benzen
+10438,"Mielec, ul. Biernackiego",17271,pył zawieszony PM10
+10438,"Mielec, ul. Biernackiego",17272,pył zawieszony PM2.5
+12057,"Boguchwała, ul. Angermana",21638,pył zawieszony PM10
+12057,"Boguchwała, ul. Angermana",21639,pył zawieszony PM2.5
+609,"Białystok, ul. Warszawska",4024,pył zawieszony PM10
+11174,"Białystok, ul. 42 Pułku Piechoty",19716,dwutlenek siarki
+11174,"Białystok, ul. 42 Pułku Piechoty",19718,ozon
+11174,"Białystok, ul. 42 Pułku Piechoty",19719,dwutlenek azotu
+11174,"Białystok, ul. 42 Pułku Piechoty",25908,pył zawieszony PM10
+11174,"Białystok, ul. 42 Pułku Piechoty",25909,pył zawieszony PM2.5
+11814,"Białystok, al.Piłsudskiego",21223,benzen
+11814,"Białystok, al.Piłsudskiego",28731,tlenek węgla
+11814,"Białystok, al.Piłsudskiego",26323,pył zawieszony PM2.5
+11814,"Białystok, al.Piłsudskiego",21243,pył zawieszony PM10
+11814,"Białystok, al.Piłsudskiego",21244,dwutlenek azotu
+17658,"Białystok, ul. Upalna",29390,pył zawieszony PM2.5
+612,"Borsukowizna, Szkółka Leśna",4040,dwutlenek azotu
+612,"Borsukowizna, Szkółka Leśna",4042,ozon
+612,"Borsukowizna, Szkółka Leśna",4045,dwutlenek siarki
+612,"Borsukowizna, Szkółka Leśna",19657,pył zawieszony PM10
+612,"Borsukowizna, Szkółka Leśna",19696,pył zawieszony PM2.5
+618,"Łomża, ul. Sikorskiego",4075,dwutlenek azotu
+618,"Łomża, ul. Sikorskiego",4079,pył zawieszony PM10
+618,"Łomża, ul. Sikorskiego",4082,dwutlenek siarki
+618,"Łomża, ul. Sikorskiego",29391,benzen
+9994,"Grajewo, ul. Wojska Polskiego",16220,pył zawieszony PM2.5
+9994,"Grajewo, ul. Wojska Polskiego",16128,dwutlenek azotu
+9994,"Grajewo, ul. Wojska Polskiego",16130,pył zawieszony PM10
+11154,"Suwałki, ul. Pułaskiego 26",19697,pył zawieszony PM2.5
+11916,"Augustów, Uzdrowisko",21345,dwutlenek azotu
+11916,"Augustów, Uzdrowisko",21348,tlenek węgla
+11916,"Augustów, Uzdrowisko",21349,ozon
+11916,"Augustów, Uzdrowisko",21323,pył zawieszony PM10
+11916,"Augustów, Uzdrowisko",21324,pył zawieszony PM2.5
+731,"Gdańsk, ul. Wyzwolenia",4703,dwutlenek azotu
+731,"Gdańsk, ul. Wyzwolenia",4706,pył zawieszony PM10
+731,"Gdańsk, ul. Wyzwolenia",4707,dwutlenek siarki
+731,"Gdańsk, ul. Wyzwolenia",27667,pył zawieszony PM2.5
+732,"Gdynia, ul. Porębskiego",4712,dwutlenek azotu
+732,"Gdynia, ul. Porębskiego",4714,ozon
+732,"Gdynia, ul. Porębskiego",4715,pył zawieszony PM10
+732,"Gdynia, ul. Porębskiego",4717,dwutlenek siarki
+732,"Gdynia, ul. Porębskiego",27567,pył zawieszony PM2.5
+736,"Gdańsk, ul. Leczkowa",4755,tlenek węgla
+736,"Gdańsk, ul. Leczkowa",4758,dwutlenek azotu
+736,"Gdańsk, ul. Leczkowa",4760,ozon
+736,"Gdańsk, ul. Leczkowa",4761,pył zawieszony PM10
+736,"Gdańsk, ul. Leczkowa",4762,pył zawieszony PM2.5
+736,"Gdańsk, ul. Leczkowa",4764,dwutlenek siarki
+736,"Gdańsk, ul. Leczkowa",28378,benzen
+16242,"Sopot, ul. Bitwy Pod Płowcami",26212,dwutlenek azotu
+16242,"Sopot, ul. Bitwy Pod Płowcami",26219,pył zawieszony PM10
+16242,"Sopot, ul. Bitwy Pod Płowcami",26221,pył zawieszony PM2.5
+725,"Słupsk, ul. Kniaziewicza",4629,benzen
+725,"Słupsk, ul. Kniaziewicza",16071,pył zawieszony PM10
+740,"Kościerzyna, ul. Targowa",4817,pył zawieszony PM10
+740,"Kościerzyna, ul. Targowa",4819,pył zawieszony PM2.5
+740,"Kościerzyna, ul. Targowa",16057,benzen
+741,"Malbork, ul. Mickiewicza",4834,tlenek węgla
+741,"Malbork, ul. Mickiewicza",4840,dwutlenek azotu
+741,"Malbork, ul. Mickiewicza",4842,ozon
+741,"Malbork, ul. Mickiewicza",4845,pył zawieszony PM10
+741,"Malbork, ul. Mickiewicza",4848,dwutlenek siarki
+742,"Lębork, ul. Malczewskiego",4866,dwutlenek azotu
+742,"Lębork, ul. Malczewskiego",4868,ozon
+742,"Lębork, ul. Malczewskiego",16070,pył zawieszony PM10
+742,"Lębork, ul. Malczewskiego",25925,pył zawieszony PM2.5
+743,Liniewko Kościerskie,4891,dwutlenek azotu
+743,Liniewko Kościerskie,4893,ozon
+743,Liniewko Kościerskie,4898,dwutlenek siarki
+750,"Łeba, IMGW",4959,ozon
+437,"Skawina, os. Ogrody",3020,dwutlenek azotu
+437,"Skawina, os. Ogrody",3023,pył zawieszony PM10
+437,"Skawina, os. Ogrody",3026,dwutlenek siarki
+437,"Skawina, os. Ogrody",27908,benzen
+443,Szymbark,3055,dwutlenek azotu
+443,Szymbark,3057,ozon
+443,Szymbark,3058,dwutlenek siarki
+443,Szymbark,21453,pył zawieszony PM10
+449,"Trzebinia, os. Związku Walki Młodych",3116,tlenek węgla
+449,"Trzebinia, os. Związku Walki Młodych",3123,pył zawieszony PM10
+449,"Trzebinia, os. Związku Walki Młodych",3127,dwutlenek siarki
+449,"Trzebinia, os. Związku Walki Młodych",16707,benzen
+455,"Niepołomice, ul. 3 Maja",27326,pył zawieszony PM10
+459,"Zakopane, ul. Sienkiewicza",3191,dwutlenek azotu
+459,"Zakopane, ul. Sienkiewicza",3193,ozon
+459,"Zakopane, ul. Sienkiewicza",3195,pył zawieszony PM10
+9179,"Szarów, ul. Spokojna",14804,dwutlenek azotu
+9179,"Szarów, ul. Spokojna",14826,ozon
+10119,Kaszów,16486,dwutlenek azotu
+10119,Kaszów,16488,ozon
+10124,"Sucha Beskidzka, ul. Nieszczyńskiej",16498,pył zawieszony PM10
+10446,"Rabka-Zdrój, ul. Orkana",21489,pył zawieszony PM10
+10814,"Oświęcim, ul. J. Bema",21203,benzen
+10814,"Oświęcim, ul. J. Bema",21249,pył zawieszony PM10
+11301,"Olkusz, ul. Cegielniana",21183,pył zawieszony PM10
+11434,"Zabierzów, ul. Wapienna",21571,pył zawieszony PM10
+16753,Myślenice,27646,pył zawieszony PM10
+16894,"Nowy Targ, al. Tysiąclecia ",27834,dwutlenek siarki
+16894,"Nowy Targ, al. Tysiąclecia ",27835,pył zawieszony PM10
+17118,"Wysowa-Zdrój, Park Zdrojowy",28426,pył zawieszony PM10
+17138,"Muszyna, Lodowisko",28432,pył zawieszony PM10
+530,"Warszawa, al. Niepodległości",3575,benzen
+530,"Warszawa, al. Niepodległości",3576,tlenek węgla
+530,"Warszawa, al. Niepodległości",3580,dwutlenek azotu
+530,"Warszawa, al. Niepodległości",3584,pył zawieszony PM10
+530,"Warszawa, al. Niepodległości",3585,pył zawieszony PM2.5
+550,"Warszawa, ul. Wokalna",3725,dwutlenek azotu
+550,"Warszawa, ul. Wokalna",3727,ozon
+550,"Warszawa, ul. Wokalna",3730,pył zawieszony PM10
+550,"Warszawa, ul. Wokalna",3731,pył zawieszony PM2.5
+552,"Warszawa, ul. Kondratowicza",3760,dwutlenek azotu
+552,"Warszawa, ul. Kondratowicza",3762,ozon
+552,"Warszawa, ul. Kondratowicza",3764,pył zawieszony PM10
+552,"Warszawa, ul. Kondratowicza",14688,pył zawieszony PM2.5
+10955,"Warszawa, ul. Chrościckiego",18200,pył zawieszony PM10
+10955,"Warszawa, ul. Chrościckiego",18201,pył zawieszony PM2.5
+10955,"Warszawa, ul. Chrościckiego",20408,dwutlenek azotu
+10955,"Warszawa, ul. Chrościckiego",20410,ozon
+10955,"Warszawa, ul. Chrościckiego",20411,dwutlenek siarki
+10956,"Warszawa, ul. Bajkowa",18198,pył zawieszony PM2.5
+10956,"Warszawa, ul. Bajkowa",18199,pył zawieszony PM10
+16533,"Warszawa, IMiGW",27047,ozon
+497,"Płock, ul. Królowej Jadwigi",3407,benzen
+497,"Płock, ul. Królowej Jadwigi",3418,dwutlenek siarki
+501,"Płock, ul. Reja",3419,benzen
+501,"Płock, ul. Reja",3420,tlenek węgla
+501,"Płock, ul. Reja",3425,dwutlenek azotu
+501,"Płock, ul. Reja",3429,pył zawieszony PM10
+501,"Płock, ul. Reja",3434,dwutlenek siarki
+501,"Płock, ul. Reja",16765,ozon
+501,"Płock, ul. Reja",14376,pył zawieszony PM2.5
+515,"Radom, ul. Tochtermana",3486,benzen
+515,"Radom, ul. Tochtermana",3487,tlenek węgla
+515,"Radom, ul. Tochtermana",3492,dwutlenek azotu
+515,"Radom, ul. Tochtermana",3494,ozon
+515,"Radom, ul. Tochtermana",3497,pył zawieszony PM10
+515,"Radom, ul. Tochtermana",3502,dwutlenek siarki
+515,"Radom, ul. Tochtermana",14377,pył zawieszony PM2.5
+460,"Belsk Duży, IGF PAN",3199,tlenek węgla
+460,"Belsk Duży, IGF PAN",3201,dwutlenek azotu
+460,"Belsk Duży, IGF PAN",3203,ozon
+460,"Belsk Duży, IGF PAN",3204,pył zawieszony PM10
+460,"Belsk Duży, IGF PAN",3205,dwutlenek siarki
+471,"Legionowo, ul. Zegrzyńska",3257,dwutlenek azotu
+471,"Legionowo, ul. Zegrzyńska",3259,ozon
+471,"Legionowo, ul. Zegrzyńska",20461,pył zawieszony PM10
+471,"Legionowo, ul. Zegrzyńska",14378,pył zawieszony PM2.5
+485,"Otwock, ul. Brzozowa",17225,pył zawieszony PM10
+485,"Otwock, ul. Brzozowa",16044,pył zawieszony PM2.5
+485,"Otwock, ul. Brzozowa",16045,benzen
+485,"Otwock, ul. Brzozowa",16046,tlenek węgla
+485,"Otwock, ul. Brzozowa",16048,dwutlenek azotu
+485,"Otwock, ul. Brzozowa",16050,ozon
+485,"Otwock, ul. Brzozowa",16051,dwutlenek siarki
+488,"Piastów, ul. Pułaskiego",3339,dwutlenek azotu
+488,"Piastów, ul. Pułaskiego",20462,pył zawieszony PM10
+488,"Piastów, ul. Pułaskiego",14779,pył zawieszony PM2.5
+488,"Piastów, ul. Pułaskiego",14352,ozon
+9798,"Nakło nad Notecią, ul. Św. Wawrzyńca",21167,dwutlenek azotu
+9798,"Nakło nad Notecią, ul. Św. Wawrzyńca",15820,benzen
+9798,"Nakło nad Notecią, ul. Św. Wawrzyńca",28894,tlenek węgla
+9798,"Nakło nad Notecią, ul. Św. Wawrzyńca",28895,dwutlenek siarki
+9798,"Nakło nad Notecią, ul. Św. Wawrzyńca",25983,pył zawieszony PM10
+9798,"Nakło nad Notecią, ul. Św. Wawrzyńca",25984,pył zawieszony PM2.5
+12038,"Świecie, al. Jana Pawła II",21504,dwutlenek azotu
+12038,"Świecie, al. Jana Pawła II",21509,pył zawieszony PM10
+12038,"Świecie, al. Jana Pawła II",21510,pył zawieszony PM2.5
+266,"Lublin, ul. Obywatelska",1888,tlenek węgla
+266,"Lublin, ul. Obywatelska",1895,dwutlenek azotu
+266,"Lublin, ul. Obywatelska",1897,ozon
+266,"Lublin, ul. Obywatelska",1900,pył zawieszony PM10
+266,"Lublin, ul. Obywatelska",1902,dwutlenek siarki
+266,"Lublin, ul. Obywatelska",1885,benzen
+266,"Lublin, ul. Obywatelska",16472,pył zawieszony PM2.5
+236,"Biała Podlaska, ul. Orzechowa",1676,ozon
+236,"Biała Podlaska, ul. Orzechowa",20419,pył zawieszony PM10
+236,"Biała Podlaska, ul. Orzechowa",15727,dwutlenek azotu
+236,"Biała Podlaska, ul. Orzechowa",18009,benzen
+236,"Biała Podlaska, ul. Orzechowa",14348,dwutlenek siarki
+248,"Jarczew, IMGW",1741,ozon
+275,"Radzyń Podlaski, ul. Sitkowskiego",27126,pył zawieszony PM10
+282,Wilczopole,1983,ozon
+285,"Zamość, ul. Hrubieszowska",2001,dwutlenek azotu
+285,"Zamość, ul. Hrubieszowska",2008,dwutlenek siarki
+285,"Zamość, ul. Hrubieszowska",16744,pył zawieszony PM10
+285,"Zamość, ul. Hrubieszowska",26316,pył zawieszony PM2.5
+285,"Zamość, ul. Hrubieszowska",28592,tlenek węgla
+10874,"Florianka, RPN",18039,dwutlenek azotu
+10874,"Florianka, RPN",18041,dwutlenek siarki
+10874,"Florianka, RPN",18042,ozon
+11360,"Chełm, ul. Połaniecka",20426,pył zawieszony PM10
+12100,"Łuków, Bulwar 100-lecia Odzyskania Niepodległości ",21787,pył zawieszony PM10
+12100,"Łuków, Bulwar 100-lecia Odzyskania Niepodległości ",21791,pył zawieszony PM2.5
+361,Gorzów Wlkp. ul. Kosynierów Gdyńskich,2410,benzen
+361,Gorzów Wlkp. ul. Kosynierów Gdyńskich,2411,tlenek węgla
+361,Gorzów Wlkp. ul. Kosynierów Gdyńskich,2416,dwutlenek azotu
+361,Gorzów Wlkp. ul. Kosynierów Gdyńskich,2418,ozon
+361,Gorzów Wlkp. ul. Kosynierów Gdyńskich,2421,pył zawieszony PM10
+361,Gorzów Wlkp. ul. Kosynierów Gdyńskich,2425,dwutlenek siarki
+361,Gorzów Wlkp. ul. Kosynierów Gdyńskich,26165,pył zawieszony PM2.5
+387,Zielona Góra ul. Krótka,2647,benzen
+387,Zielona Góra ul. Krótka,2649,tlenek węgla
+387,Zielona Góra ul. Krótka,2657,dwutlenek azotu
+387,Zielona Góra ul. Krótka,2659,ozon
+387,Zielona Góra ul. Krótka,2664,pył zawieszony PM2.5
+387,Zielona Góra ul. Krótka,2668,dwutlenek siarki
+387,Zielona Góra ul. Krótka,14428,pył zawieszony PM10
+11294,"Zielona Góra,ul.Wyszyńskiego",20232,pył zawieszony PM10
+374,Smolary Bytnickie,2504,dwutlenek azotu
+374,Smolary Bytnickie,2506,ozon
+374,Smolary Bytnickie,2510,dwutlenek siarki
+376,Sulęcin ul. Dudka,2523,dwutlenek azotu
+376,Sulęcin ul. Dudka,2525,ozon
+376,Sulęcin ul. Dudka,2528,pył zawieszony PM10
+379,Wschowa ul. Kazimierza Wielkiego,2559,dwutlenek azotu
+379,Wschowa ul. Kazimierza Wielkiego,2563,pył zawieszony PM10
+379,Wschowa ul. Kazimierza Wielkiego,2566,dwutlenek siarki
+379,Wschowa ul. Kazimierza Wielkiego,19721,pył zawieszony PM2.5
+379,Wschowa ul. Kazimierza Wielkiego,14633,ozon
+382,"Żary, ul. Szymanowskiego ",2589,tlenek węgla
+382,"Żary, ul. Szymanowskiego ",2594,dwutlenek azotu
+382,"Żary, ul. Szymanowskiego ",2596,ozon
+382,"Żary, ul. Szymanowskiego ",2601,dwutlenek siarki
+382,"Żary, ul. Szymanowskiego ",14619,benzen
+382,"Żary, ul. Szymanowskiego ",14618,pył zawieszony PM10
+382,"Żary, ul. Szymanowskiego ",20221,pył zawieszony PM2.5
+11576,"Bydgoszcz, ul. Jeździecka",20780,dwutlenek azotu
+11576,"Bydgoszcz, ul. Jeździecka",20786,ozon
+145,"Toruń, ul. Wały gen. Sikorskiego",853,pył zawieszony PM10
+206,"Toruń, ul. Dziewulskiego",1401,dwutlenek azotu
+206,"Toruń, ul. Dziewulskiego",1403,ozon
+206,"Toruń, ul. Dziewulskiego",1405,pył zawieszony PM10
+206,"Toruń, ul. Dziewulskiego",1409,dwutlenek siarki
+208,"Toruń, ul. Przy Kaszowniku",1414,benzen
+208,"Toruń, ul. Przy Kaszowniku",1416,tlenek węgla
+208,"Toruń, ul. Przy Kaszowniku",1421,dwutlenek azotu
+208,"Toruń, ul. Przy Kaszowniku",1426,pył zawieszony PM10
+208,"Toruń, ul. Przy Kaszowniku",21163,pył zawieszony PM2.5
+225,"Włocławek, ul. Okrzei",1534,tlenek węgla
+225,"Włocławek, ul. Okrzei",1539,dwutlenek azotu
+225,"Włocławek, ul. Okrzei",1544,pył zawieszony PM10
+225,"Włocławek, ul. Okrzei",19698,pył zawieszony PM2.5
+225,"Włocławek, ul. Okrzei",18023,benzen
+9791,"Włocławek, ul. Kaliska",15988,ozon
+9791,"Włocławek, ul. Kaliska",20302,pył zawieszony PM10
+9791,"Włocławek, ul. Kaliska",15982,dwutlenek azotu
+9791,"Włocławek, ul. Kaliska",21264,dwutlenek siarki
+142,"Grudziądz, ul. Piłsudskiego",806,tlenek węgla
+142,"Grudziądz, ul. Piłsudskiego",809,dwutlenek azotu
+142,"Grudziądz, ul. Piłsudskiego",812,pył zawieszony PM10
+143,"Inowrocław, ul. Solankowa",828,pył zawieszony PM10
+164,"Ciechocinek, ul. Tężniowa",1061,dwutlenek azotu
+164,"Ciechocinek, ul. Tężniowa",1063,ozon
+190,"Koniczynka, Pojezierze Chełmińskie",1283,dwutlenek azotu
+190,"Koniczynka, Pojezierze Chełmińskie",1285,ozon
+232,"Zielonka, Bory Tucholskie",1600,benzen
+232,"Zielonka, Bory Tucholskie",1607,tlenek węgla
+232,"Zielonka, Bory Tucholskie",1635,dwutlenek azotu
+232,"Zielonka, Bory Tucholskie",1640,ozon
+232,"Zielonka, Bory Tucholskie",1650,dwutlenek siarki
+966,"Koszalin, ul. Armii Krajowej",6236,dwutlenek azotu
+966,"Koszalin, ul. Armii Krajowej",6238,pył zawieszony PM10
+966,"Koszalin, ul. Armii Krajowej",20586,tlenek węgla
+966,"Koszalin, ul. Armii Krajowej",20587,benzen
+11336,"Koszalin, ul. Chopina",20380,ozon
+11336,"Koszalin, ul. Chopina",26305,dwutlenek siarki
+11336,"Koszalin, ul. Chopina",20565,dwutlenek azotu
+961,Widuchowa,6212,dwutlenek azotu
+961,Widuchowa,6214,ozon
+961,Widuchowa,6218,dwutlenek siarki
+983,"Szczecinek, ul. Przemysłowa",6320,dwutlenek azotu
+983,"Szczecinek, ul. Przemysłowa",6322,pył zawieszony PM10
+983,"Szczecinek, ul. Przemysłowa",6324,dwutlenek siarki
+983,"Szczecinek, ul. Przemysłowa",21352,tlenek węgla
+983,"Szczecinek, ul. Przemysłowa",20612,benzen
+10934,"Kołobrzeg, ul. Żółkiewskiego",29522,pył zawieszony PM2.5
+10934,"Kołobrzeg, ul. Żółkiewskiego",29523,pył zawieszony PM10
+17158,"Dąbki, ul. Sztormowa",28474,dwutlenek azotu
+17158,"Dąbki, ul. Sztormowa",28476,pył zawieszony PM2.5
+17158,"Dąbki, ul. Sztormowa",28477,pył zawieszony PM10
