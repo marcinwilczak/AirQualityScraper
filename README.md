@@ -22,6 +22,12 @@ Kod nale¿y skompliowaæ w œrodowisku Visual Studio Code (wersja 2022),
 
 U¿ywana wersja C# 8.0.
 
+W aplikacji u¿yte zosta³y dodatkowo zainstalowanie rozszerzenia przy u¿yciu
+NuGet Packed Manager i s¹ to:
+
+1. RestSharp - do tworzenia zapytañ HTTP
+2. Newtonsoft.Json - do parsowania danych z formatu JSON
+
 [ENG]
 
 The application allows data on measuring stations and their parameters to be retrieved
@@ -43,3 +49,9 @@ of new functioalites, like performin' other operation on fetched data from API.
 The code should be compiled in Visual Studio Code (version 2022)
 
 C# Version Used: 8.0
+
+In the application, extensions were additionally installed using
+NuGet Packed Manager and these are:
+
+1. RestSharp - for making HTTP requests
+2. Newtonsoft.Json - for JSON parsing 
