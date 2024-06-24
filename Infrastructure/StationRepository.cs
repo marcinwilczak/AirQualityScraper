@@ -42,6 +42,7 @@ namespace DataScraper.Infrastructure
                 {
                     var request = new RestRequest(url, Method.Get);
                     var response = _client.Execute(request);
+
                     if (response.StatusCode == HttpStatusCode.OK)
                     {
                         return JsonConvert.DeserializeObject<T>(response.Content);
@@ -52,7 +53,7 @@ namespace DataScraper.Infrastructure
 
                         if (response.StatusCode == HttpStatusCode.NotFound)
                         {
-                            break; // Exit retry loop if URL is not found
+                            break; //exit if URL is not found
                         }
                     }
                 }
@@ -62,7 +63,7 @@ namespace DataScraper.Infrastructure
                 }
 
                 retries++;
-                System.Threading.Thread.Sleep(1000); // Wait for 1 second before retrying
+                System.Threading.Thread.Sleep(1000); //wait 1 second before retrying not necessary
             }
 
             return null;
